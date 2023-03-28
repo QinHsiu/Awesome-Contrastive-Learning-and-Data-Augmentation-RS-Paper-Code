@@ -288,7 +288,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 8. **Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation** (Sequential + CL + DA)
 
-   arXiv 2021, [[PDF]](https://arxiv.org/pdf/2109.00368.pdf)
+   ICDM 2021, [[PDF]](https://arxiv.org/pdf/2109.00368.pdf)
 
 9. **Contrastive Learning with Bidirectional Transformers for Sequential Recommendation** (Sequential + CL + DA)
 
