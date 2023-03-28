@@ -264,7 +264,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 2. **Contrastive Learning for Sequential Recommendation** (Sequential + CL + DA)
    
-    SIGIR 2021, [[PDF]](https://arxiv.org/pdf/2010.14395.pdf), [[Code]](https://github.com/RUCAIBox/RecBole-DA/blob/master/recbole/model/sequential_recommender/cl4srec.py)
+    ICDE 2022, [[PDF]](https://arxiv.org/pdf/2010.14395.pdf), [[Code]](https://github.com/RUCAIBox/RecBole-DA/blob/master/recbole/model/sequential_recommender/cl4srec.py)
 
 3. **Contrastive Self-supervised Sequential Recommendation with Robust Augmentation** (Sequential + CL + DA)
    
