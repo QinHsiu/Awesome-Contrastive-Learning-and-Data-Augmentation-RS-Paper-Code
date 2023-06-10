@@ -377,11 +377,21 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 30. **Multimodal Pre-training Framework for Sequential Recommendation via Contrastive Learning** (Multi-Modal + Sequential + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/pdf/2303.11879.pdf)
-31. **Meta-optimized Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL) SIGI2023, [[PDF]](https://arxiv.org/pdf/2304.07763.pdf), [[Code]](https://github.com/QinHsiu/MCLRec)
-32. **Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation** (Sequential + DA + CL) SIGI2023, [[PDF]](https://arxiv.org/abs/2304.14668), [[Code]](https://github.com/hw-du/EMKD)
-33. **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** (Sequential + DA + CL) SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
-34. **Debiased Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL) WWW2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/HKUDS/DCRec)
-35. **Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation** (Sequential + DA + CL) AAAI2023, [[PDF]](https://arxiv.org/abs/2212.08262), [[Code]](https://github.com/KingGugu/TiCoSeRec)
+31. **Meta-optimized Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL) 
+
+    SIGI2023, [[PDF]](https://arxiv.org/pdf/2304.07763.pdf), [[Code]](https://github.com/QinHsiu/MCLRec)
+33. **Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation** (Sequential + DA + CL) 
+    
+    SIGI2023, [[PDF]](https://arxiv.org/abs/2304.14668), [[Code]](https://github.com/hw-du/EMKD)
+35. **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** (Sequential + DA + CL) 
+    
+    SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
+37. **Debiased Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL) 
+    
+    WWW2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/HKUDS/DCRec)
+39. **Uniform Sequence Better: Time Interval Aware Data Augmentation for Sequential Recommendation** (Sequential + DA + CL) 
+    
+    AAAI2023, [[PDF]](https://arxiv.org/abs/2212.08262), [[Code]](https://github.com/KingGugu/TiCoSeRec)
 
 
 ## Other Tasks with CL
