@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 34
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 33
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 31
 
 
@@ -390,9 +390,6 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     
     SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
 
-34. **Debiased Contrastive Learning for Sequential Recommendation** (Sequential + Graph + CL) 
-    
-    WWW2023, [[PDF]](https://arxiv.org/pdf/2303.11780.pdf), [[Code]](https://github.com/HKUDS/DCRec)
 
 
 ## Other Tasks with CL
