@@ -395,6 +395,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     WSDM2023 [[PDF]](https://www.atailab.cn/seminar2023Spring/pdf/2023_WSDM_Multi-Intention%20Oriented%20Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf), [[Code]](https://github.com/LFM-bot/IOCRec)
 
 35. **Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation** (Sequential + DA + CL)
+    
     ICDE2022, [[PDF]](https://arxiv.org/pdf/2305.04322.pdf), [[Code]](https://github.com/sudaada/SLIME4Rec)
 
 
