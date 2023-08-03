@@ -388,7 +388,10 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 33. **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** (Sequential + DA + CL) 
     
-    SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
+   SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
+34. **Multi-Intention Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
+
+   WSDM2023 [[PDF]](https://www.atailab.cn/seminar2023Spring/pdf/2023_WSDM_Multi-Intention%20Oriented%20Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf), [[Code]](https://github.com/LFM-bot/IOCRec)
 
 
 
