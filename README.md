@@ -8,7 +8,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 34
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 35
 - [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 31
 
 
@@ -394,6 +394,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     WSDM2023 [[PDF]](https://www.atailab.cn/seminar2023Spring/pdf/2023_WSDM_Multi-Intention%20Oriented%20Contrastive%20Learning%20for%20Sequential%20Recommendation.pdf), [[Code]](https://github.com/LFM-bot/IOCRec)
 
+35. **Contrastive Enhanced Slide Filter Mixer for Sequential Recommendation** (Sequential + DA + CL)
+    ICDE2022, [[PDF]](https://arxiv.org/pdf/2305.04322.pdf), [[Code]](https://github.com/sudaada/SLIME4Rec)
 
 
 ## Other Tasks with CL
