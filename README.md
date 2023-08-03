@@ -380,15 +380,15 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
 31. **Meta-optimized Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL) 
 
-    SIGI2023, [[PDF]](https://arxiv.org/pdf/2304.07763.pdf), [[Code]](https://github.com/QinHsiu/MCLRec)
+    SIGIR2023, [[PDF]](https://arxiv.org/pdf/2304.07763.pdf), [[Code]](https://github.com/QinHsiu/MCLRec)
 
 32. **Ensemble Modeling with Contrastive Knowledge Distillation for Sequential Recommendation** (Sequential + DA + CL) 
     
-    SIGI2023, [[PDF]](https://arxiv.org/abs/2304.14668), [[Code]](https://github.com/hw-du/EMKD)
+    SIGIR2023, [[PDF]](https://arxiv.org/abs/2304.14668), [[Code]](https://github.com/hw-du/EMKD)
 
 33. **Frequency Enhanced Hybrid Attention Network for Sequential Recommendation** (Sequential + DA + CL) 
     
-    SIGI2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
+    SIGIR2023, [[PDF]](https://arxiv.org/abs/2304.09184), [[Code]](https://github.com/sudaada/FEARec)
 
 34. **Multi-Intention Oriented Contrastive Learning for Sequential Recommendation** (Sequential + DA + CL)
 
