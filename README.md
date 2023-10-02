@@ -407,6 +407,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 38. **DREAM: Decoupled Representation via Extraction Attention Module and Supervised Contrastive Learning for Cross-Domain Sequential Recommender** (Sequential + DA + CL)
     Recsys2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608780)
 
+39. **Semantic-enhanced Contrastive Learning for Session-based Recommendation** (Sequential + DA + CL)
+    KBS2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123007517)
 
 
 ## Other Tasks with CL
