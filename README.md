@@ -398,6 +398,16 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     
     ICDE2022, [[PDF]](https://arxiv.org/pdf/2305.04322.pdf), [[Code]](https://github.com/sudaada/SLIME4Rec)
 
+36. **A Multi-view Graph Contrastive Learning Framework for Cross-Domain Sequential Recommendation** (Sequential + Graph + CL)
+    Recsys2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608785)
+    
+37. **Contrastive Learning with Frequency Domain for Sequential Recommendation** (Sequential + DA + CL)
+    ASOC2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S1568494623004994), [[Code]](https://github.com/zhangyichi1Z/CLF4SRec)
+
+38. **DREAM: Decoupled Representation via Extraction Attention Module and Supervised Contrastive Learning for Cross-Domain Sequential Recommender** (Sequential + DA + CL)
+    Recsys2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3604915.3608780)
+
+
 
 ## Other Tasks with CL
 
@@ -525,3 +535,4 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 31. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
 
     arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
+
