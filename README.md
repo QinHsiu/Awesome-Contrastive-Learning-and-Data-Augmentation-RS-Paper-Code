@@ -255,6 +255,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2303.08537.pdf), [[Code]](https://github.com/HKUDS/SimRec)
 
+38. **Neighborhood-Enhanced Supervised Contrastive Learning for Collaborative Filtering** (Graph + CL)
+     TKDE 2023, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10255367)
 
 ## Sequential Models with CL
 
