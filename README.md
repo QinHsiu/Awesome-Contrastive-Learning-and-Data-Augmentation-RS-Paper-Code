@@ -412,8 +412,16 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 39. **Semantic-enhanced Contrastive Learning for Session-based Recommendation** (Sequential + DA + CL)
     KBS2023, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705123007517)
 
-40. **Category Enhanced Dual View Contrastive Learning for Session-Based Recommendation** (Sequential + DA +CL)
+41. **Category Enhanced Dual View Contrastive Learning for Session-Based Recommendation** (Sequential + DA +CL)
     ICANN2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-44195-0_24)
+
+42. **Unbiased and Robust: External Attention-enhanced Graph Contrastive Learning for Cross-domain Sequential Recommendation** (Sequential + Graph + CL)
+    ICDMW2023, [[PDF]](https://arxiv.org/pdf/2310.04633.pdf)
+    
+44. **Intent Contrastive Learning with Cross Subsequences for Sequential Recommendation** (Sequential + DA + CL)
+     WSDM2024, [[PDF]](https://arxiv.org/pdf/2310.14318.pdf)
+
+45. ****
 
 
 ## Other Tasks with CL
