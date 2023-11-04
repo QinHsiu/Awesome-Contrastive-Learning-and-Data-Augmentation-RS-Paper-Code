@@ -8,8 +8,8 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 - [Survey/Tutorial](#Survey/Tutorial) Total Papers: 4
 - [Only Data Augmentation](#Only-Data-Augmentation) Total Papers: 17
 - [Graph Models with CL](#Graph-Models-with-CL) Total Papers: 38
-- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 35
-- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 31
+- [Sequential Models with CL](#Sequential-Models-with-CL) Total Papers: 70
+- [Other Tasks with CL](#Other-Tasks-with-CL) Total Papers: 47
 
 
 ## Survey/Tutorial
@@ -461,9 +461,34 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     Arxiv2023, [[PDF]](https://arxiv.org/pdf/2310.13925.pdf)
 
 63. **Teach and Explore: A Multiplex Information-guided Efective and Eficient Reinforcement Learning for Sequential Recommendation** (Sequential + Reinforcement Learning + CL)
+
     TOIS2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3630003)
 
-64. 
+65. **Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation** (Sequential + Cross-Domain + CL)
+
+     CIKM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614828)
+   
+66. **Model-enhanced Contrastive Reinforcement Learning for Sequential Recommendation** (Sequential + RL + CL)
+
+    Arxiv2023, [[PDF]](https://arxiv.org/pdf/2310.16566.pdf)
+
+67. **H3GNN: Hybrid Hierarchical HyperGraph Neural Network for Personalized Session-based Recommendation** (Sequential + Graph)
+
+    TOIS2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3630002)
+
+68. **Interest Aware Dual-Channel Graph Contrastive Learning for Session-Based Recommendation** (Sequential + Graph +CL)
+
+    NLPCC2023, [[PDF]](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_12)
+
+69. **Sequential Recommendation via an Adaptive Cross-domain Knowledge Decomposition** (Sequential + Graph + Cross-Domain +CL)
+
+    CIKM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615058)
+
+70. **Personalized Behavior-Aware Transformer for Multi-Behavior Sequential Recommendation** (Sequential + Multi-Behavior)
+
+    MM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611723)
+
+
 
 ## Other Tasks with CL
 
@@ -563,8 +588,7 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
      arXiv 2023, [[PDF]](https://arxiv.org/pdf/2302.03248.pdf), [[Code]](https://github.com/somestudies/DCCL)
 
-25. **Contrastive Collaborative Filtering for Cold-Start Item
-    Recommendation** (CF + Cold Start +  CL)
+25. **Contrastive Collaborative Filtering for Cold-Start Item Recommendation** (CF + Cold Start +  CL)
 
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.02151.pdf), [[Code]](https://github.com/zzhin/CCFCRec)
     
@@ -577,21 +601,49 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
      WWW 2023, [[PDF]](https://arxiv.org/pdf/2302.10632.pdf), [[Code]](https://github.com/HKUDS/MMSSL)
     
 28. **Efficient On-Device Session-Based Recommendation** (Session + DA + CL)
+
      TOIS 2023, [[PDF]](https://arxiv.org/pdf/2209.13422.pdf), [[Code]](https://github.com/xiaxin1998/EODRec)
 
-29. **On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation** (Session + DA + CL)
+30. **On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation** (Session + DA + CL)
+
      SIGIR 2022, [[PDF]](https://arxiv.org/pdf/2204.11091.pdf), [[Code]](https://github.com/xiaxin1998/OD-Rec)
 
-30. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
+32. **Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation** (Multi-Modal Rec + CL)
+
      WWW 2022, [[PDF]](https://web.archive.org/web/20220428140054id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512079), [[Code]](https://github.com/hantengyue/PAMD)
 
-31. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
+34. **End-to-End Personalized Next Location Recommendation via Contrastive User Preference Modeling** (POI Rec + CL)
+
     arXiv 2023, [[PDF]](https://arxiv.org/abs/2303.12507)
 
-32. **CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation** (POI Rec + CL)
+36. **CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation** (POI Rec + CL)
+
     CIKM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614813) [[Code]](https://github.com/Wonderdch/CLSPRec)
 
-33. **Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation** (Social Rec + CL)
+38. **Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation** (Social Rec + CL)
+
     CIKM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614806)
 
+39. **Contrastive graph learning long and short-term interests for POI recommendation** (POI Rec + Graph +CL)
 
+    ESA2023, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0957417423024338)
+
+41. **A Contrastive Learning Framework for Dual-Target Cross-Domain Recommendation** (Cross-Domain + CL)
+
+    MM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612250)
+
+43. **Modal-aware Bias Constrained Contrastive Learning for Multimodal Recommendation** (Multimodal Rec + Graph + CL)
+
+    MM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612568)
+
+45. **Hierarchical Category-Enhanced Prototype Learning for Imbalanced Temporal Recommendation** (Temporal Rec)
+
+    MM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613829)
+
+46. **LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation** (LLM Rec)
+
+    Arxiv2023, [[PDF]](https://arxiv.org/pdf/2310.17488.pdf) 
+
+47. **Salespeople vs SalesBot: Exploring the Role of Educational Value in Conversational Recommender Systems** (LLM Rec)
+
+    Arxiv2023, [[PDF]](https://arxiv.org/pdf/2310.17749.pdf)
