@@ -488,6 +488,9 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
 
     MM2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3581783.3611723)
 
+59. **Dynamic Bi-layer Graph Learning for Context-aware Sequential Recommendation** (Sequential + Graph +CL)
+
+    ACM2023, [[PDF]](https://www.researchgate.net/profile/Xiangmin-Zhou-2/publication/376379134_Dynamic_Bi-layer_Graph_Learning_for_Context-aware_Sequential_Recommendation/links/657524b2fc4b416622af253b/Dynamic-Bi-layer-Graph-Learning-for-Context-aware-Sequential-Recommendation.pdf)
 
 
 ## Other Tasks with CL
@@ -678,7 +681,37 @@ CF = Collaborative Filtering, SSL = Self-Supervised Learning
     
 55. **MultiCBR: Multi-view Contrastive Learning for Bundle Recommendation** (CL + Bundle)
 
-     Arxiv2023, [[PDF]](https://arxiv.org/abs/2311.16751)
+    Arxiv2023, [[PDF]](https://arxiv.org/abs/2311.16751)
+
+56. **Poisoning Self-supervised Learning Based Sequential Recommendations** （CL + poison）
+
+    SIGIR2023, [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3539618.3591751)
+
+57. **Recommendation model combining self-features and contrastive learning** (CL)
+
+    计算机应用2023, [[PDF]](http://www.joca.cn/EN/10.11772/j.issn.1001-9081.2023091264)
+
+58. **Knowledge-Aware Graph Self-Supervised Learning for Recommendation** (Cl + Graph)
+
+    MDPI2023, [[PDF]](https://www.mdpi.com/2079-9292/12/23/4869)
+
+59. **A self-attention model with contrastive learning for online group recommendation in event-based social networks** (CL + group-rec)
+
+    Springer2023, [[PDF]](https://link.springer.com/article/10.1007/s11227-023-05801-3)
+
+60. **Dual-Supervised Contrastive Learning for Bundle Recommendation** (CL + Bundle + Graph)
+
+    TCSS2023, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10342659)
+
+61 **Revisiting Recommendation Loss Functions through Contrastive Learning** (CL)
+
+   AAAI2024, [[PDF]](https://arxiv.org/pdf/2312.08520.pdf)
+
+
+   
+
+
+    
 
 
     
